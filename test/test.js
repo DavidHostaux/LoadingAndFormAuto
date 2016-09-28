@@ -1,0 +1,4 @@
+$(function()
+{
+    doAjax_lafa();
+});
